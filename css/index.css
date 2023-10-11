@@ -129,13 +129,13 @@ h2 {
     font-size: 30px;
 }
 
-@media (min-width: 731px) {
+@media (min-width: 841px) {    /* 731 */
     .project-list {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media (min-width: 1091px) {
+@media (min-width: 1261px) {
     .project-list {
         grid-template-columns: 1fr 1fr 1fr;
     }
