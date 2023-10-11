@@ -104,6 +104,11 @@ h2 {
     gap: 20px;
 }
 
+article {
+    max-width: 250px;
+    max-height: 250px;
+}
+
 .project-list article {
     border: 1px solid var(--background-color);   
 }
