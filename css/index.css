@@ -68,7 +68,7 @@
 }
 
 .welcome-section {
-    background: linear-gradient(to bottom, #082e1b 0%, #31b88f 100%); /* (62deg, #3a3d40 0%, #181719 100%)*/
+    background: linear-gradient(to bottom, #3a1396 0%, #130430 100%); /* (62deg, #3a3d40 0%, #181719 100%)*/
     height: 100vh;
     display: flex;
     align-items: center;
