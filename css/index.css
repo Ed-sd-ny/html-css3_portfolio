@@ -103,17 +103,12 @@ h2 {
     display: grid;
     gap: 20px;
 }
-article {
-    max-width: 100%;
-    height: auto;
+.proba{
+    display: grid;
 }
-
 .project-list article {
     border: 1px solid var(--background-color); 
-    /*max-width: 100%;
-    height: auto;*/
 }
-
 .project-list .title-container {   /* .project-list*/ 
     padding: 5px 20px;
     display: flex;
