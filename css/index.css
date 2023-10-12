@@ -124,13 +124,13 @@ img{
     font-size: 30px;
 }
 
-@media (min-width: 841px) {    /*  731 841 */
+@media (min-width: 731px) {    /*  731 841 */
     .project-list {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media (min-width: 1261px) {    /* 1261 1091*/
+@media (min-width: 1091px) {    /* 1261 1091*/
     .project-list {
         grid-template-columns: 1fr 1fr 1fr;
     }
