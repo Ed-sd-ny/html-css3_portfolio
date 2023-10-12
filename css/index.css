@@ -116,7 +116,7 @@ h2 {
     align-items: center; */
 }
 
-.project-list container .title-container {   /* .project-list*/ 
+.project-list .title-container {   /* .project-list*/ 
     padding: 5px 20px;
     display: flex;
     align-items: center;
