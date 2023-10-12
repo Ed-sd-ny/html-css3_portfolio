@@ -103,8 +103,9 @@ h2 {
     display: grid;
     gap: 20px;
 }
-.proba{
-    display: grid;
+img{
+    display: block;
+    width: 100%;
 }
 .project-list article {
     border: 1px solid var(--background-color); 
