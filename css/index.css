@@ -103,11 +103,15 @@ h2 {
     display: grid;
     gap: 20px;
 }
+article {
+    max-width: 100%;
+    height: auto;
+}
 
 .project-list article {
     border: 1px solid var(--background-color); 
-    max-width: 100%;
-    height: auto;
+    /*max-width: 100%;
+    height: auto;*/
 }
 
 .project-list .title-container {   /* .project-list*/ 
