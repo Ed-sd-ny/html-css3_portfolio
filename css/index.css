@@ -110,9 +110,9 @@ h2 {
 }*/
 
 .project-list article {
-    border: 1px solid var(--background-color); 
-    justify-content: center;
-    align-items: center;
+    border: 3px solid var(--background-color); 
+    /*justify-content: center;
+    align-items: center; */
 }
 
 .project-list .title-container {
