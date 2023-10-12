@@ -104,16 +104,8 @@ h2 {
     gap: 20px;
 }
 
-/*article {
-    max-width: 250px;
-    max-height: 250px;
-}*/
-
 .project-list article {
-    border: 3px solid var(--background-color); 
-    display: grid;
-    justify-content: center;
-    align-items: center; */
+    border: 1px solid var(--background-color); 
 }
 
 .project-list .title-container {   /* .project-list*/ 
