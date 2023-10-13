@@ -117,6 +117,8 @@ img{
     justify-content: center;
     background-color: var(--background-color-alternate);
     min-height: 80px;
+    border-radius: 3px;
+    border: 1px solid var(--text-color);
 }
 
 .project-list article h3 {
