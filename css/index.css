@@ -23,7 +23,6 @@
 .button {
     background-color: var(--background-color-alternate);
     border-radius: 2px;
-    border: 1px solid var(--text-color);
     padding: 5px 15px;
     display: inline-block;
     justify-content: center;
